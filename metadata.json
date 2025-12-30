@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MGL Transport Management System",
+  "description": "A comprehensive enterprise-grade fleet and transport management platform with modules for admin, maintenance, dispatch, and driver operations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
